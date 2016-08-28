@@ -1,4 +1,4 @@
-frontend-development.github.com
+frontend-development.github.io
 ===============================
 
-Official Site for the Textbook
+Official Site for the (future) Textbook
